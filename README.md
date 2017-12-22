@@ -1,2 +1,0 @@
-# bl-blog
-blog app
